@@ -8,7 +8,7 @@ help(signal.buttord)
 
 
 # 设置x,y轴的数值
-x1 = np.linspace(0, 15, 100)
+x1 = np.linspace(0, 15, 200)
 y1 = np.sin(x1)
 y2 = np.cos(x1)
 
