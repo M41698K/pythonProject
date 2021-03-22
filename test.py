@@ -14,7 +14,7 @@ y2 = np.cos(x1)
 
 # 在当前绘图对象中画图（x轴,y轴,给所绘制的曲线的名字，画线颜色，画线宽度）
 plt.plot(x1, y1, label="$sin(x)$", color="blue", linewidth=3)
-plt.plot(x1, y2, label="$cos(x)$", color="red", linewidth=2)
+plt.plot(x1, y2, label="$cos(x)$", color="red", linewidth=3)
 #
 plt.show()
 
